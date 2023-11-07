@@ -12,7 +12,7 @@
 </div>
 
 > J'entends souvent dire :<br />
-<b>"La cyber en France c'est 100 idiots sur les plateaux TV et une dizaine de mecs puissants dans l'ombre".</b><br />
+<b>"La cyber en France c'est 100 idiots sur les plateaux TV et une dizaine de mecs puissants dans l'ombre".</b><br /><br />
 > Sauf que le mec puissant restera dans sa cave s'il ne construit pas son cercle de relations :)<br />
 > 
 <br><br>
@@ -21,7 +21,11 @@
 </div>
 <br>
 
-
+## C'est kwoi ton truc la ?
+<br />
+Il suffit de renseigner ses identifiants LinkedIn ainsi qu'un lien vers une activité (un post d'un utilisateur) et le script se chargera de se connecter à votre compte puis de récupérer la liste des personnes qui ont liké la publication pour leur envoyer une demande de connexion.<br />
+Le fait de se baser sur des réactions permet de toucher des comptes actifs sur la plateforme et qui sont intéressés par le sujet du post que vous avez choisi.<br />
+<br /><br />
 
 ## Installation
 ```python
