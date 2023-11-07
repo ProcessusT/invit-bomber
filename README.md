@@ -11,23 +11,19 @@
   <br><br>
 </div>
 
-> J'entends souvent dire "La cyber en France c'est 100 idiots sur les plateaux TV et une dizaine de mecs puissants dans l'ombre".<br />
+> J'entends souvent dire :<br />
+<b>"La cyber en France c'est 100 idiots sur les plateaux TV et une dizaine de mecs puissants dans l'ombre".</b><br />
 > Sauf que le mec puissant restera dans sa cave s'il ne construit pas son cercle de relations :)<br />
 > 
-<br>
+<br><br>
 <div align="center">
-  <video controls autoplay width="80%;">
-    <source src="https://github.com/Processus-Thief/invit-bomber/raw/main/.assets/linkedin.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/Processus-Thief/invit-bomber/raw/main/.assets/linkedin.gif" width="80%;">
 </div>
 <br>
 
 
 
 ## Installation
-<br><br>
-
 ```python
 git clone https://github.com/Processus-Thief/invit-bomber
 cd invit-bomber
@@ -39,8 +35,6 @@ python3 linkedin.py
 
 
 ## Usage
-<br><br>
-
 ```python
 python3 linkedin.py
 ```
